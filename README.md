@@ -2,6 +2,11 @@
 
 Help for JavaScript objects.
 
+[![NPM](https://nodei.co/npm/@haensl%2Fobject.png?downloads=true)](https://nodei.co/npm/@haensl%2Fobject/)
+
+[![npm version](https://badge.fury.io/js/@haensl%2Fobject.svg)](http://badge.fury.io/js/@haensl%2Fobject)
+[![CircleCI](https://circleci.com/gh/haensl/object.svg?style=svg)](https://circleci.com/gh/haensl/object)
+
 ## Install
 
 ### NPM
